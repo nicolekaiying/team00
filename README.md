@@ -2,8 +2,8 @@
 
 This application was generated using JHipster 8.7.3 for the team project 2024-2025 module at the university of Birmingham.
 
-# Team 32
-Ou Kai Ying kxo476@student.bham.ac.uk
+# Team X
+
 
 <!-- this is a comment: delete lines TODO: and 1. 2. 3. once done... -->
 
